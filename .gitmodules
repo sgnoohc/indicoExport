@@ -1,0 +1,3 @@
+[submodule "pyicalmerge"]
+	path = pyicalmerge
+	url = https://github.com/raspi/pyicalmerge.git
